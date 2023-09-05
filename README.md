@@ -1,4 +1,4 @@
-# Sockanamalydetection-
+# Stockanamalydetection-
  A Stock Anomaly detection is a project for learning the detection of abnormal instances, called anomalies (or outliers) in the stock market. 
 Evaluation Metrics:
 F1-score serves as the evaluation metrics for this competition. This metric provides a comprehensive assessment of your model's performance, considering the challenges posed by the dataset's class imbalance. Achieving a balance between high precision (accurately detecting true non-hold anomalies) and high recall (capturing as many non-hold anomalies as possible) will be instrumental in developing strong anomaly detection models.
